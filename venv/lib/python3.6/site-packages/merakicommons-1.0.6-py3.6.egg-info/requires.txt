@@ -1,0 +1,4 @@
+
+[testing]
+pytest
+flake8

@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: roleml
+Version: 0.1.1
+Summary: ML classifier for role in Riot API LoL matches
+Home-page: https://github.com/Canisback/roleML
+Author: Canisback
+Author-email: canisback@gmail.com
+License: UNKNOWN
+Keywords: Riot API,python,machine learning,role,Leaue of Legends, classifier
+Platform: UNKNOWN
+Requires-Dist: scikit-learn
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: pandas
+
+UNKNOWN
+
+

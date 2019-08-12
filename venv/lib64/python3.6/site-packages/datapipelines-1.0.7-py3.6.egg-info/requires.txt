@@ -1,0 +1,6 @@
+merakicommons
+networkx
+
+[testing]
+pytest
+flake8

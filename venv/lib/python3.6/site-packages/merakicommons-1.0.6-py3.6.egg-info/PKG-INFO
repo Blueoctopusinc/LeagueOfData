@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: merakicommons
+Version: 1.0.6
+Summary: Common toolset for Meraki Analaytics projects
+Home-page: https://github.com/meraki-analytics/merakicommons
+Author: Meraki Analytics Team
+Author-email: team@merakianalytics.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Topic :: Software Development
+Classifier: Topic :: Software Development :: Libraries
+Provides-Extra: testing
